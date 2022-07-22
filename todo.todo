@@ -1,0 +1,29 @@
+Version 2.5:
+    ☐ turn more tasks into methods:
+        ☐ any event done on a widgit should set global variable:
+        `selected widgit = widgits[index]`
+
+    widgit element:
+        ☐ edit start time button
+        ☐ edit length button
+        ☐ start new todo list (input box) => (text element)
+        ☐ remove button 
+
+Version 2.4:
+✔ the widget cell should become a widgit element  @done(22-07-21 22:13)
+✔ start time row gets height value: @done(22-07-21 21:56)
+    `const height = (timeLength/15)*14 + "px"`
+✔ add input box in <li> in <ul> in <td> @done(22-07-21 21:56)
+
+Version 2.3:
+✔ each cell should have id in the form: @done(22-07-20 23:34)
+    `"cell-8-0" "cell-8-3" "cell-H-Q"`
+✔ displayWidgits() should set the start time cell attribute: @started(22-07-20 23:39) @done(22-07-21 00:44) @lasted(1h5m58s)
+    `rowspan = length / 15`
+
+Version 2.2:
+✔ it should have an add button and selections for start-time and length. @done(22-07-20 23:33)
+✔ button should add to list of widgets. @done(22-07-20 23:33)
+
+Version 2.1:
+✔ it should have a schedule table of hours and 4 cells per hour @done(22-07-20 23:33)

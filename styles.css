@@ -1,0 +1,48 @@
+.myTable {
+    border: solid 1px black;
+}
+
+.row {
+    height: 15px;
+}
+
+.secondCell {
+    border: dotted 1px darkgray;
+    width: 450px;
+    height: 14px;
+}
+
+.secondCellOne {
+    border-top: solid 1px black;
+}
+
+.secondCellTwo {
+    border-bottom-style: dashed;
+}
+
+.secondCellThree {
+    border-top-style: dashed;
+}
+
+.widget {
+    border: solid 1px maroon;
+    border-radius: 6px;
+}
+
+.collapse {
+    height: 14px;
+    width: 0px;
+    visibility: hidden;
+}
+
+.thirdCell {
+    height: 14px;
+    display: none;
+}
+
+.hourCell {
+    border-top: solid 1px black;
+    border-right: solid 1px black;
+    vertical-align: top;
+    text-align: right;
+}
