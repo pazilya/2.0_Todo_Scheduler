@@ -1,12 +1,18 @@
 Version 2.5:
-    ☐ turn more tasks into methods:
-        ☐ any event done on a widgit should set global variable:
-        `selected widgit = widgits[index]`
+    ☐ log and load from local storage!
+    ☐ it should load showing current hour at top and end at 2am
 
-    widgit element:
+    ✔ turn more tasks into methods: @done(22-07-22 18:04)
+        ✔ any event done on a widgit should set global variable: @done(22-07-22 18:04)
+        `selectedWidgit = widgits[index]`
+        `function setSelectedWidgit(event) {`
+        `...`
+        `function addWidgit(event){`
+
+    ☐ widgit element:
         ☐ edit start time button
         ☐ edit length button
-        ☐ start new todo list (input box) => (text element)
+        ✔ start new todo list (input box) => (text element) @done(22-07-22 17:58)
         ☐ remove button 
 
 Version 2.4:

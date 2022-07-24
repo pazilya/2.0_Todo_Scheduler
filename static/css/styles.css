@@ -1,0 +1,82 @@
+h2 {
+    color: #8be9fd;
+}
+
+body {
+    background-color: #282a36;
+}
+
+label {
+    color: #f8f8f2;
+}
+
+select {
+    color: #8be9fd;
+    background-color: #44475a;
+}
+
+button {
+    color: #8be9fd;
+    background-color: #44475a;
+    margin: 5px;
+}
+
+span {
+    color: #8be9fd;
+    font-size: 14px;
+    margin-inline-start: 5px;
+}
+
+
+.myTable {
+    margin-top: 15px;
+    border: solid 1px #ff79c6;
+    color: #ff79c6;
+}
+/* 
+.row {
+    height: 15px;
+} */
+
+.secondCell {
+    border: dotted 1px #ff79c6;
+    width: 450px;
+    height: 15px;
+}
+
+.secondCellOne {
+    border-top: solid 1px #ff79c6;
+}
+
+.secondCellTwo {
+    border-bottom-style: dashed;
+}
+
+.secondCellThree {
+    border-top-style: dashed;
+}
+
+.widget {
+    border: solid 2px #8be9fd;
+    border-radius: 6px;
+    align-content: flex-start;
+}
+
+/* .collapse {
+    height: 15px;
+    width: 0px;
+    visibility: hidden;
+} */
+/* 
+.thirdCell {
+    height: 15px;
+    display: none;
+} */
+
+.hourCell {
+    border-top: solid 1px #ff79c6;
+    border-right: solid 1px #ff79c6;
+    vertical-align: top;
+    text-align: right;
+    color: #ffb86c;
+}
